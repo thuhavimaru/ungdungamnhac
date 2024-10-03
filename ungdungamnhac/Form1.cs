@@ -70,5 +70,15 @@ namespace ungdungamnhac
         {
 
         }
+
+        private void panel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+
+        }
     }
 }
