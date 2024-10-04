@@ -76,7 +76,47 @@ namespace ungdungamnhac
 
         }
 
-        private void button1_Click_2(object sender, EventArgs e)
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nhacremix_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nhacbuon_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nhacthugian_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sky_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chill_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void phatnhac_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nhacngheganday_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void thuvien_click(object sender, EventArgs e)
         {
 
         }

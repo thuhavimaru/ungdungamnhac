@@ -16,5 +16,10 @@ namespace ungdungamnhac
         {
             InitializeComponent();
         }
+
+        private void taodanhsachmoi_click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

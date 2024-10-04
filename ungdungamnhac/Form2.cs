@@ -22,7 +22,12 @@ namespace ungdungamnhac
 
         }
 
-        private void pictureBox5_Click(object sender, EventArgs e)
+        private void danhsachphatcongkhai_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void phatplaylist_click(object sender, EventArgs e)
         {
 
         }
