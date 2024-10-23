@@ -10,14 +10,15 @@ using System.Windows.Forms;
 
 namespace ungdungamnhac
 {
-    public partial class Form5 : Form
+    public partial class PhatNhac : Form
     {
-        public Form5()
+        public PhatNhac()
         {
             InitializeComponent();
+            this.BackgroundImage = Properties.Resources.abc;
         }
 
-        private void taodanhsachmoi_click(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e)
         {
 
         }

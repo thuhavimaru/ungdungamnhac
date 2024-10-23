@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ungdungamnhac
 {
-    public partial class Form3 : Form
+    public partial class ChiTietPlaylist : Form
     {
-        public Form3()
+        public ChiTietPlaylist()
         {
             InitializeComponent();
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

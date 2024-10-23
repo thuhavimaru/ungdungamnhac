@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace ungdungamnhac
 {
-    public partial class Form7 : Form
+    public partial class Loibaihat : Form
     {
-        public Form7()
+        public Loibaihat()
         {
             InitializeComponent();
+        }
+
+        private void Loibaihat_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

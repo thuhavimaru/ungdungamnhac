@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace ungdungamnhac
 {
-    public partial class Form6 : Form
+    public partial class ThemPlaylist : Form
     {
-        public Form6()
+        public ThemPlaylist()
         {
             InitializeComponent();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            PhatNhac f=new PhatNhac();
+            f.Show();
+
         }
     }
 }
